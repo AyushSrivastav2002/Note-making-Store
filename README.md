@@ -11,4 +11,6 @@ This project is fully developed in React using the concepts like- :Function Call
                                                                   :Form Handling(To prevent page reloading)
                                                                   :Two-way-Binding(To handle the inputs of forms)
                                                                   
- And styling is done through Tailwind CSS.                                                                 
+ And styling is done through Tailwind CSS. 
+
+ Deployed link:- https://glittery-melomakarona-760b27.netlify.app/
