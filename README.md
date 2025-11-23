@@ -1,4 +1,5 @@
 A Notes making store where we can add our Notes.
+
 We can write headings and the content of our Notes and can simply add by clicking 'Add notes' button.
 Your added notes will appear in the 'Notes Added' section in the note-paper card of the Web page.
 You can also Delete your added note from webpage by clicking the button 'Delete'.
